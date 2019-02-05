@@ -42,4 +42,17 @@
             </div>
         </div>
     </body>
+    {{--fichiers js angular --}}
+    {{--<script type="text/javascript"--}}
+            {{--src="{{ asset('front-app/src/runtime.js') }}"></script>--}}
+    {{--<script type="text/javascript"--}}
+            {{--src="{{ asset('front-app/src//polyfills.js') }}"></script>--}}
+    {{--<script type="text/javascript"--}}
+            {{--src="{{ asset('front-app/src//styles.js') }}"></script>--}}
+    {{--<script type="text/javascript"--}}
+            {{--src="{{ asset('front-app/src//scripts.js') }}"></script>--}}
+    {{--<script type="text/javascript"--}}
+            {{--src="{{ asset('front-app/src//vendor.js') }}"></script>--}}
+    {{--<script type="text/javascript"--}}
+            {{--src="{{ './front-app/src/main.js' }}"></script>--}}
 </html>
